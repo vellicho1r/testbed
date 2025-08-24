@@ -1,8 +1,6 @@
-#Lets define Class Bandit with 4 parameteres: (1) initializer, (2) string, (3) pull, (4) update**
+#Lets define Class: "Simple Bandit" with 4 parameteres: (1) initializer, (2) string, (3) pull, (4) update**
 
-#Simple_Bandit
-import numpy as np
-#for generating random numbers
+import numpy as np                                                            #for generating random numbers
 #because we utilize the normal distrubution
 
 class Bandit:   #Like a template for making a slot machine
